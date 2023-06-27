@@ -1,0 +1,3 @@
+C:/Users/avtus/CLionProjects/sympson/cmake-build-debug/CMakeFiles/sympson.dir
+C:/Users/avtus/CLionProjects/sympson/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/avtus/CLionProjects/sympson/cmake-build-debug/CMakeFiles/rebuild_cache.dir
