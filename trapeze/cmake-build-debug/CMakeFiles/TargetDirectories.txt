@@ -1,0 +1,3 @@
+C:/Users/avtus/CLionProjects/trapeze/cmake-build-debug/CMakeFiles/trapeze.dir
+C:/Users/avtus/CLionProjects/trapeze/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/avtus/CLionProjects/trapeze/cmake-build-debug/CMakeFiles/rebuild_cache.dir
